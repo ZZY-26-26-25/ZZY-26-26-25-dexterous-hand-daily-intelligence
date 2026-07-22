@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "description": "Dexterous hand hardware and data collection catalog",
+  "categories": [
+    "dexterous_hand",
+    "teleoperation",
+    "umi",
+    "wearable_interface",
+    "tactile",
+    "dataset",
+    "software"
+  ],
+  "fields": {
+    "name": "string",
+    "company": "string",
+    "category": "array",
+    "dof": "string",
+    "actuation": "string",
+    "finger_tracking": "string",
+    "wrist_6d": "string",
+    "tactile": "string",
+    "force_feedback": "string",
+    "opensource": "string",
+    "license": "string",
+    "procurement": "string"
+  },
+  "items": []
+}
