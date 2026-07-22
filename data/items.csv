@@ -1,0 +1,5 @@
+name,category,company,dof,sensors,opensource,license,notes
+MIDAS Hand,dexterous_hand,MIT,13 active 16 total,tactile + motor state,yes,CERN-OHL/MIT,open hardware platform
+Wuji Hand,teleoperation,Wuji,20,tactile + joint state,yes,MIT,commercial SDK ecosystem
+mimic hand M1,dexterous_hand,mimic,21,tactile + force estimation,no,,commercial research platform
+AGIBOT OmniHand 3 Ultra-M,dexterous_hand,AGIBOT,20,vision tactile + palm tactile,no,,commercial product
