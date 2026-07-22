@@ -3,3 +3,8 @@ MIDAS Hand,dexterous_hand,MIT,13 active 16 total,tactile + motor state,yes,CERN-
 Wuji Hand,teleoperation,Wuji,20,tactile + joint state,yes,MIT,commercial SDK ecosystem
 mimic hand M1,dexterous_hand,mimic,21,tactile + force estimation,no,,commercial research platform
 AGIBOT OmniHand 3 Ultra-M,dexterous_hand,AGIBOT,20,vision tactile + palm tactile,no,,commercial product
+T-800,data_glove,PKU and UCAS,18 IMU nodes,800 Hz synchronized IMU,partial,CC BY 4.0 paper,high-frequency full-hand motion capture
+LinkerHand L20Lite,dexterous_hand,Linkerbot,unknown,URDF and mesh model,yes,unknown,URDF and meshes updated to match released hardware
+Inspire Hand Retargeting,teleoperation,community,6 output dimensions,RealSense D405 + MediaPipe,yes,unknown,experimental vision-based retargeting and UDP pipeline
+Dexterous Slip Detection for XHAND1,tactile_software,community,unknown,XHAND1 tactile taxel simulation,yes,Apache-2.0,MuJoCo energy-flow slip detection and grip/wrist teacher search
+WHATsLAB Dexterous Hand URDF Collection,software_stack,WHATsLAB,multi-hand,URDF + meshes,yes,mixed upstream licenses,curated Orca HX5 Allegro LEAP SCHUNK and Tesollo models
