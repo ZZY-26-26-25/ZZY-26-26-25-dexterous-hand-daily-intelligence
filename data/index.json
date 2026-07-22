@@ -1,0 +1,15 @@
+{
+  "project": "dexterous-hand-daily-intelligence",
+  "reports": [
+    {
+      "date": "2026-07-22",
+      "topics": [
+        "dexterous hand",
+        "teleoperation",
+        "tactile",
+        "VLA",
+        "data collection"
+      ]
+    }
+  ]
+}
