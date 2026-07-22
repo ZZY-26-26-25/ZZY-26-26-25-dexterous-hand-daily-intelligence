@@ -2,7 +2,27 @@
   "project": "dexterous-hand-daily-intelligence",
   "reports": [
     {
+      "date": "2026-07-23",
+      "path": "reports/2026-07-23.md",
+      "topics": [
+        "high-frequency data glove",
+        "dexterous hand URDF",
+        "vision-based retargeting",
+        "slip detection",
+        "tactile control",
+        "data collection"
+      ],
+      "highlights": [
+        "T-800",
+        "LinkerHand L20Lite URDF update",
+        "Inspire Hand Retargeting",
+        "Dexterous Slip Detection for XHAND1",
+        "WHATsLAB Dexterous Hand URDF Collection"
+      ]
+    },
+    {
       "date": "2026-07-22",
+      "path": "reports/2026-07-22.md",
       "topics": [
         "dexterous hand",
         "teleoperation",
