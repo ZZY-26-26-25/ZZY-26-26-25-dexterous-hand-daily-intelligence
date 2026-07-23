@@ -1,10 +1,12 @@
 name,category,company,dof,sensors,opensource,license,notes
 MIDAS Hand,dexterous_hand,MIT,13 active 16 total,tactile + motor state,yes,CERN-OHL/MIT,open hardware platform
-Wuji Hand,teleoperation,Wuji,20,tactile + joint state,yes,MIT,commercial SDK ecosystem
+Wuji Hand 2,dexterous_hand,Wuji,20,"joint state + per-finger self-describing tactile streams + diagnostics",partial,"SDK package and docs public","SDK v2026.7.21 adds tactile metadata status runtime recalibration timestamp drift fix and communication-loss motor stop"
 mimic hand M1,dexterous_hand,mimic,21,tactile + force estimation,no,,commercial research platform
 AGIBOT OmniHand 3 Ultra-M,dexterous_hand,AGIBOT,20,vision tactile + palm tactile,no,,commercial product
+MVP-Tac,tactile_hardware,University of Michigan and collaborators,not applicable,"1280x720 dual-mode camera + photoelastic tactile + 0-2N force",yes,to verify,"miniature co-located vision/tactile sensor with open design fabrication and firmware; component cost under USD 20"
+UHAS,cross_embodiment_software,UT Dallas and Arizona State,multi-hand,"canonical sphere action + Cascade IK",yes,Apache-2.0,"LEAP Allegro Shadow MANO unified action space; pretrained models and Isaac Lab code"
 T-800,data_glove,PKU and UCAS,18 IMU nodes,800 Hz synchronized IMU,partial,CC BY 4.0 paper,high-frequency full-hand motion capture
-LinkerHand L20Lite,dexterous_hand,Linkerbot,unknown,URDF and mesh model,yes,unknown,URDF and meshes updated to match released hardware
+LinkerHand L20Lite,dexterous_hand,Linkerbot,model-specific,URDF and mesh model,yes,Apache-2.0,URDF and meshes updated to match released hardware
 Inspire Hand Retargeting,teleoperation,community,6 output dimensions,RealSense D405 + MediaPipe,yes,unknown,experimental vision-based retargeting and UDP pipeline
-Dexterous Slip Detection for XHAND1,tactile_software,community,unknown,XHAND1 tactile taxel simulation,yes,Apache-2.0,MuJoCo energy-flow slip detection and grip/wrist teacher search
+Dexterous Slip Detection for XHAND1,tactile_software,community,model-specific,XHAND1 tactile taxel simulation,yes,Apache-2.0,MuJoCo energy-flow slip detection and grip/wrist teacher search
 WHATsLAB Dexterous Hand URDF Collection,software_stack,WHATsLAB,multi-hand,URDF + meshes,yes,mixed upstream licenses,curated Orca HX5 Allegro LEAP SCHUNK and Tesollo models
