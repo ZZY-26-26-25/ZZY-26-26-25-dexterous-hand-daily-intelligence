@@ -1,7 +1,25 @@
 {
   "project": "dexterous-hand-daily-intelligence",
-  "updated_at": "2026-07-23",
+  "updated_at": "2026-07-24",
   "reports": [
+    {
+      "date": "2026-07-24",
+      "path": "reports/2026-07-24.md",
+      "topics": [
+        "multi-embodiment grasping",
+        "language-guided grasp seed",
+        "fragile-object force prediction",
+        "masked visual actions",
+        "pixel-space action representation",
+        "underactuated robotic hand"
+      ],
+      "highlights": [
+        "SeededGrasp",
+        "V2F",
+        "Masked Visual Actions",
+        "Underactuated hand with passively rotating fingers"
+      ]
+    },
     {
       "date": "2026-07-23",
       "path": "reports/2026-07-23.md",
