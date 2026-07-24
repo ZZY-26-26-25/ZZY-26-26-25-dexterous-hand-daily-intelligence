@@ -1,7 +1,29 @@
 {
   "project": "dexterous-hand-daily-intelligence",
-  "updated_at": "2026-07-24",
+  "updated_at": "2026-07-25",
   "reports": [
+    {
+      "date": "2026-07-25",
+      "path": "reports/2026-07-25.md",
+      "topics": [
+        "tactile generation from UMI demonstrations",
+        "policy-conditioned impedance force control",
+        "browser robot teleoperation",
+        "trajectory refinement",
+        "controlled-access robot dataset",
+        "bimanual handover planning",
+        "bias-aware data collection",
+        "robot company update"
+      ],
+      "highlights": [
+        "FELT",
+        "URF",
+        "AXIS",
+        "BiCompoDiff",
+        "Scale Up Strategically",
+        "AgiBot IPO process"
+      ]
+    },
     {
       "date": "2026-07-24",
       "path": "reports/2026-07-24.md",
