@@ -8,6 +8,11 @@
       "topics": [
         "multi-embodiment grasping",
         "language-guided grasp seed",
+        "single-video skill acquisition",
+        "human recovery demonstrations",
+        "failure recovery",
+        "modular wearable teleoperation",
+        "joint-level haptic feedback",
         "fragile-object force prediction",
         "masked visual actions",
         "pixel-space action representation",
@@ -15,6 +20,9 @@
       ],
       "highlights": [
         "SeededGrasp",
+        "HOST",
+        "EgoRecovery",
+        "ModPack",
         "V2F",
         "Masked Visual Actions",
         "Underactuated hand with passively rotating fingers"
