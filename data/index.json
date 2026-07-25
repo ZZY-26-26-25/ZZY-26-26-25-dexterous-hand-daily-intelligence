@@ -1,7 +1,25 @@
 {
   "project": "dexterous-hand-daily-intelligence",
-  "updated_at": "2026-07-25",
+  "updated_at": "2026-07-26",
   "reports": [
+    {
+      "date": "2026-07-26",
+      "path": "reports/2026-07-26.md",
+      "topics": [
+        "multi-hand real-time retargeting",
+        "XR and glove teleoperation inputs",
+        "retargeting provenance",
+        "interaction-preserving retargeting reproduction",
+        "commercial SDK version tracking",
+        "Inspire RH56F2 ROS2 competition framework"
+      ],
+      "highlights": [
+        "AnyDexRetarget",
+        "TopoRetarget-Repro",
+        "BrainCo RevoHand SDK v2.0.3",
+        "Dexterous Hand Competition ROS2 Framework"
+      ]
+    },
     {
       "date": "2026-07-25",
       "path": "reports/2026-07-25.md",
