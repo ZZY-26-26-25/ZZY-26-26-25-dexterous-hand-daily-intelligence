@@ -5,6 +5,7 @@
     {
       "date": "2026-07-25",
       "path": "reports/2026-07-25.md",
+      "supplement_path": "reports/2026-07-25-supplement.md",
       "topics": [
         "tactile generation from UMI demonstrations",
         "policy-conditioned impedance force control",
@@ -13,7 +14,13 @@
         "controlled-access robot dataset",
         "bimanual handover planning",
         "bias-aware data collection",
-        "robot company update"
+        "robot company update",
+        "sim-real DDS interface parity",
+        "Unitree G1 BrainCo digital twin",
+        "articulated-palm dexterous hand RL",
+        "retail humanoid post-training",
+        "experience-driven VLA refinement",
+        "autonomous rollout distribution drift"
       ],
       "highlights": [
         "FELT",
@@ -21,7 +28,10 @@
         "AXIS",
         "BiCompoDiff",
         "Scale Up Strategically",
-        "AgiBot IPO process"
+        "AgiBot IPO process",
+        "G1 BrainCo Hands Digital Twin",
+        "ISyHand RL",
+        "DEED"
       ]
     },
     {
