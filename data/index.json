@@ -1,7 +1,26 @@
 {
   "project": "dexterous-hand-daily-intelligence",
-  "updated_at": "2026-07-26",
+  "updated_at": "2026-07-27",
   "reports": [
+    {
+      "date": "2026-07-27",
+      "path": "reports/2026-07-27.md",
+      "topics": [
+        "open-source wearable UMI",
+        "robot-free bimanual demonstration collection",
+        "commercial UMI productization",
+        "MCAP and Zarr data pipelines",
+        "robot-agnostic capture and retarget provenance",
+        "risk-sensitive dexterous grasping",
+        "HandUMI LeRobot datasets"
+      ],
+      "highlights": [
+        "HandUMI Hardware + Software",
+        "Trossen TRumi",
+        "VNB-Grasp",
+        "HandUMI PiPER Joint-Level Samples"
+      ]
+    },
     {
       "date": "2026-07-26",
       "path": "reports/2026-07-26.md",
