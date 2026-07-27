@@ -1,7 +1,29 @@
 {
   "project": "dexterous-hand-daily-intelligence",
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-07-28",
   "reports": [
+    {
+      "date": "2026-07-28",
+      "path": "reports/2026-07-28.md",
+      "topics": [
+        "visuo-tactile world model",
+        "generated tactile rollouts",
+        "industrial skill capture glove",
+        "fluidic tendon dexterous hand",
+        "monolithic origami soft hand",
+        "dynamic bimanual coordination",
+        "multi-hand policy grounding",
+        "tactile withdrawal reflex"
+      ],
+      "highlights": [
+        "ViTacWorld",
+        "TactaBot / Tacta Hand / Tacta Glove",
+        "OSOR Monolithic Soft Hand",
+        "DynaMAC + DynaBench",
+        "Multi-Hand Assignment and Null-Space Search",
+        "Tactile Withdrawal Reflexes"
+      ]
+    },
     {
       "date": "2026-07-27",
       "path": "reports/2026-07-27.md",
